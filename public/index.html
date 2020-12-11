@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_2184722_f2z00eg1u2o.css">
+    <script type="text/javascript" src="//api.map.baidu.com/api?type=webgl&v=1.0&ak=tK1U5sSccDGNjAvCoDoGVh24rb548UEz"></script>
+  </head>
+  <style>
+    html ,body{
+      height: 100%;
+      width: 100%;
+      font-size: 10px;
+    
+    }
+    a{
+     text-decoration: none;   /*所有a标签取消下划线 */
+    }
+    *{
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
