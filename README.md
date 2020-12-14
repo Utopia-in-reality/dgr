@@ -1,9 +1,7 @@
 # dgr
 Mobile app written in the learning process, functions include: Carousel, login, registration, form verification, prompt box...
 homepag：
-
-![image-20201211175456705](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201211175456705.png)
-
+![avatar](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201211175456705.png)
 ![image-20201211175959172](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201211175959172.png)
 
 
